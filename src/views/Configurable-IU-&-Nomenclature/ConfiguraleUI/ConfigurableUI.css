@@ -1,0 +1,33 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.text-center{
+    text-align: center;
+}
+.main-div{
+    display: flex;
+    flex-direction:row;
+    height:100vh;
+    width: 100vw;
+    margin-top: 10%;
+    justify-content: space-around;
+
+}
+.sweets-card{
+    width:30vw;
+    height: 45vh;
+    background-image: linear-gradient(pink,coral);
+    padding-left: 15%;
+    border-radius: 5px;
+
+}
+.sweets-img{
+    width:20vw;
+    height: 25vh;
+    margin-top: 10px;
+}
+.sweets-text{
+    margin-right:10%;
+}

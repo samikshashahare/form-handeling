@@ -1,0 +1,23 @@
+{
+    "title": "Sweet-Shop",
+    "description": "Available all types of sweets",
+    
+    "sweets": [
+        {
+            "title": "Gulab-JAmun",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN2pvaGSIHE-uA8lF5OoawwbBfxcNEAfuhvg&usqp=CAU",
+            "description":"Gulab jamun is an Indian dessert of fried dough balls that are soaked in a sweet, sticky sugar syrup."
+        },
+        {
+            "title": "Milk sweet",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKhMZo128Xfl06NjdFGbNOxjrlnGDQRfPPbw&usqp=CAU",
+            "description":"Sweet milk is a southern term referring to fresh, unprocessed whole milk."
+            
+        },
+        {      
+            "title":"kaju-katli",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkdnkIASpm_Ms45kOQ9Zbe8GQRKTkM8D5eDQ&usqp=CAU",
+            "description":"Kaju katli (literally 'cashew slice'), also known as kaju barfi, is an Indian dessert similar to a barfi."
+        }
+    ]
+}
